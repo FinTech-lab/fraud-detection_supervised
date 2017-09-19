@@ -2,13 +2,13 @@
 Supervised fraud detection system with cutting edge techs to address the challenge of concept drift, unbalanced sample, and extremely large data set.
 
 
-EasyEnsemble
+## EasyEnsemble
 
 
-Incremental update framework
+## Incremental update framework
 
 
-Incremental forget framework
+## Incremental forget framework
 
 
 Please contact extremefintech@gmail.com for any additional questions or comments.
