@@ -1,15 +1,5 @@
 # fraud-detection_supervised
-This project developed a fraud detection system based on supervised method with cutting edge techs to address the challenge of concept drift, unbalanced sample, and extremely large data set. For further background info and mehtod mechanism, please refer to the Wiki page.
-
-
-## EasyEnsemble
-
-
-## Incremental update framework
-
-
-## Incremental forget framework
-
+This project developed a fraud detection system based on supervised method with cutting edge techs to address the challenge of concept drift, unbalanced sample, and extremely large data set. For further background info and mehtod mechanism, please refer to the ![Wiki](https://github.com/FinTech-lab/fraud-detection_supervised/wiki) page.
 
 ## Get started
 1. Python 2.7 or above
