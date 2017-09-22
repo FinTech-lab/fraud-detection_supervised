@@ -1,5 +1,5 @@
 # fraud-detection_supervised
-This project developed a fraud detection system based on supervised method with cutting edge techs to address the challenge of concept drift, unbalanced sample, and extremely large data set. For further background info and mehtod mechanism, please refer to the [[Supervised FDS]] page.
+This project developed a fraud detection system based on supervised method with cutting edge techs to address the challenge of concept drift, unbalanced sample, and extremely large data set. For further background info and mehtod mechanism, please refer to the [Supervised FDS](wiki/Supervised-FDS) page.
 
 ## Get started
 1. Python 2.7 or above
