@@ -17,6 +17,7 @@ Supervised fraud detection system with cutting edge techs to address the challen
 3. Pandas
 4. Scipy
 5. scikit-learn
+6. Tensorflow
 
 
 Please contact extremefintech@gmail.com for any additional questions or comments.
